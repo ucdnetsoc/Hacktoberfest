@@ -6,7 +6,7 @@
 
 In order to promote Open Source contributions, Digital Ocean runs a yearly challenge to have 4 Pull Requests successfully merged into an open source project on GitHub. As a reward you get a free t-shirt and most importantly stickers!
 
-![Dark 2020 T-Shirt](https://hacktoberfest.digitalocean.com/assets/hero-mobile-tshirt-dark-8cc94224ac51522095d62756fc02e6857ef006298d7e60100cfa631f2bf2fd66.png =250x) ![Light 2020 T-Shirt](https://hacktoberfest.digitalocean.com/assets/hero-mobile-tshirt-light-e7bdf6cacca3140f846da649f37e45fdc6f6a33b3e93ba546044d58dcbda3f0d.png =250x)
+![Dark 2020 T-Shirt](https://hacktoberfest.digitalocean.com/assets/hero-mobile-tshirt-dark-8cc94224ac51522095d62756fc02e6857ef006298d7e60100cfa631f2bf2fd66.png) ![Light 2020 T-Shirt](https://hacktoberfest.digitalocean.com/assets/hero-mobile-tshirt-light-e7bdf6cacca3140f846da649f37e45fdc6f6a33b3e93ba546044d58dcbda3f0d.png)
 
 ---
 
