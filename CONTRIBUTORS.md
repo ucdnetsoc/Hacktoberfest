@@ -7,3 +7,4 @@
 - [Quinn Berryman](https://github.com/QuinnBerryman02)
 - [Ash](https://github.com/ash-xyz)
 - [Chris John](https://github.com/chrisanthusjohn)
+- [Rajit Banerjee](https://github.com/rajitbanerjee)
