@@ -15,6 +15,8 @@ On many systems, this is already installed for you. Otherwise you can install it
 
 You must also have a Github account. You can create an account on their [website](https://github.com).
 
+Detailed [Instructions](https://zarkom.net/blogs/how-to-install-git-and-git-bash-on-windows-9140) for Git Bash Installation
+
 ----
 
 ### Git config
@@ -133,6 +135,9 @@ Once, you've submitted your code, one of the Sysadmins will take a look it over 
 ---
 
 ## What next?
+Resources for learning git:
+- https://learngitbranching.js.org/
+- [The Coding Train: Git & GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&vl=en)
 
 There are many different open source projects on Github, that you can help. Here's a repositories that have tasks for beginners:
 - https://github.com/mungell/awesome-for-beginners
