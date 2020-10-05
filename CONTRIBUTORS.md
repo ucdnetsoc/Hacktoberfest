@@ -4,3 +4,4 @@
 - [Sahil Mehra](https://github.com/sahil-mehra)
 - [Nicole McCabe](https://github.com/nicolemccabechu)
 - [Karen Kelly](https://github.com/kkelly99)
+- [Ash](https://github.com/ash-xyz)
