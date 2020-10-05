@@ -5,3 +5,6 @@
 - [Nicole McCabe](https://github.com/nicolemccabechu)
 - [Karen Kelly](https://github.com/kkelly99)
 - [Conor Kiy](https://github.com/yik000)
+- [Quinn Berryman](https://github.com/QuinnBerryman02)
+- [Ash](https://github.com/ash-xyz)
+- [Chris John](https://github.com/chrisanthusjohn)
