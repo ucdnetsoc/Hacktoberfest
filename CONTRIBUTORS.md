@@ -9,3 +9,4 @@
 - [Quinn Berryman](https://github.com/QuinnBerryman02)
 - [Ash](https://github.com/ash-xyz)
 - [Chris John](https://github.com/chrisanthusjohn)
+- [Conor Barry](https://github.com/CaptOrb)
