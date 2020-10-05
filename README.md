@@ -15,6 +15,8 @@ On many systems, this is already installed for you. Otherwise you can install it
 
 You must also have a Github account. You can create an account on their [website](https://github.com).
 
+Detailed [Instructions](https://zarkom.net/blogs/how-to-install-git-and-git-bash-on-windows-9140) for Git Bash Installation
+
 ----
 
 ### Git config
