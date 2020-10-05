@@ -3,6 +3,7 @@
 - [David Loftus](https://github.com/DavidLoftus)
 - [Sahil Mehra](https://github.com/sahil-mehra)
 - [Nicole McCabe](https://github.com/nicolemccabechu)
+- [Ines Fernandez] (https://github.com/inesfb)
 - [Karen Kelly](https://github.com/kkelly99)
 - [Cian Dunne](https://github.com/cianopiano)
 - [Quinn Berryman](https://github.com/QuinnBerryman02)
