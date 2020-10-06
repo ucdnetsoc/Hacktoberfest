@@ -16,3 +16,4 @@
 - [Chris John](https://github.com/chrisanthusjohn)
 - [Conor Barry](https://github.com/CaptOrb)
 - [Braddy Yeoh](https://github.com/yeohbraddy)
+- [Jason Tee](https://github.com/AmplifiedHuman)
