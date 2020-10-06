@@ -17,3 +17,4 @@
 - [Conor Barry](https://github.com/CaptOrb)
 - [Braddy Yeoh](https://github.com/yeohbraddy)
 - [Jason Tee](https://github.com/AmplifiedHuman)
+- [Chowsy Cho](https://github.com/chowsychoch)
