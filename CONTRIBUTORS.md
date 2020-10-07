@@ -18,4 +18,5 @@
 - [Braddy Yeoh](https://github.com/yeohbraddy)
 - [Jason Tee](https://github.com/AmplifiedHuman)
 - [Chowsy Cho](https://github.com/chowsychoch)
+- [Thomas O'Gara](https://github.com/thomasogara)
 - [Lones Xheladini](https://github.com/LonesX)
