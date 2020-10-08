@@ -1,0 +1,16 @@
+HAI 1.2
+	I HAS A nums ITZ 1
+	IM IN YR fizzr UPPIN YR nums TIL BOTH SAEM nums AN 100
+		BOTH SAEM MOD OF nums AN 15 AN 0
+		O RLY?
+			YA RLY 
+				VISIBLE "FizzBuzz"
+			MEBBE BOTH SAEM MOD OF nums AN 3 AN 0
+				VISIBLE "Fizz"
+			MEBBE BOTH SAEM MOD OF nums AN 5 AN 0
+				VISIBLE "Buzz"
+			NO WAI
+				VISIBLE nums
+		OIC
+	IM OUTTA YR fizzr
+KTHXBYE
