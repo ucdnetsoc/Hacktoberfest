@@ -15,3 +15,4 @@
 - [Ash](https://github.com/ash-xyz)
 - [Chris John](https://github.com/chrisanthusjohn)
 - [Conor Barry](https://github.com/CaptOrb)
+- [Mingaile Michejeva](https://github.com/min174)
