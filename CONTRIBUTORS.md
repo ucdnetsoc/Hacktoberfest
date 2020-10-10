@@ -21,5 +21,6 @@
 - [Chowsy Cho](https://github.com/chowsychoch)
 - [Thomas O'Gara](https://github.com/thomasogara)
 - [Lones Xheladini](https://github.com/LonesX)
+- [Danny Lu](https://github.com/Absentism)
 - [Ahmed Jouda](https://github.com/AhmedJouda2000)
 - [Michael O'Connell](https://github.com/AppDevMichael)
