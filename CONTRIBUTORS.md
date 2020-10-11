@@ -24,3 +24,4 @@
 - [Danny Lu](https://github.com/Absentism)
 - [Ahmed Jouda](https://github.com/AhmedJouda2000)
 - [Michael O'Connell](https://github.com/AppDevMichael)
+- [Julia Filipczak](https://github.com/Julia-fil1)
