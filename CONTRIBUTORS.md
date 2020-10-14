@@ -15,6 +15,7 @@
 - [Ash](https://github.com/ash-xyz)
 - [Chris John](https://github.com/chrisanthusjohn)
 - [Conor Barry](https://github.com/CaptOrb)
+- [Connie Purcell](https://github.com/ConniePurcell18)
 - [Mingaile Michejeva](https://github.com/min174)
 - [Braddy Yeoh](https://github.com/yeohbraddy)
 - [Jason Tee](https://github.com/AmplifiedHuman)
