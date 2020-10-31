@@ -27,3 +27,4 @@
 - [Michael O'Connell](https://github.com/AppDevMichael)
 - [Julia Filipczak](https://github.com/Julia-fil1)
 - [Simone Pellegrino](https://github.com/HellSingCoder)
+- [Chris Thomas](https://github.com/ChrisThomas0)
