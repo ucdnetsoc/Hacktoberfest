@@ -2,13 +2,11 @@
 
 NOTE: Only contribute if you are a Netsoc Member!
 
-![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)
+![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
 ## Getting your free t-shirt
 
 In order to promote Open Source contributions, Digital Ocean runs a yearly challenge to have 4 Pull Requests successfully merged into an open source project on GitHub. As a reward you get a free t-shirt and most importantly stickers!
-
-![Dark 2020 T-Shirt](https://hacktoberfest.digitalocean.com/assets/hero-mobile-tshirt-dark-8cc94224ac51522095d62756fc02e6857ef006298d7e60100cfa631f2bf2fd66.png) ![Light 2020 T-Shirt](https://hacktoberfest.digitalocean.com/assets/hero-mobile-tshirt-light-e7bdf6cacca3140f846da649f37e45fdc6f6a33b3e93ba546044d58dcbda3f0d.png)
 
 ---
 
