@@ -1,6 +1,7 @@
 # Contributors
 
 - [Ashraf Ali](https://github.com/ash-xyz)
+- [Ivor Lucas](https://github.com/IvorLucas)
 - [Cathal Poon](https://github.com/EXfighter)
 - [Fionn Murphy](https://github.com/FionnMurphy)
 - [Dominic752](https://github.com/Dominic752)
