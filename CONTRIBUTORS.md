@@ -8,3 +8,4 @@
 - [Corentin Bel](https://github.com/Cocococo11)
 - [Yosra Hashim](https://github.com/yhashim)
 - [Jake Ginesin](https://github.com/JakeGinesin)
+- [Jakub Kerlin](https://github.com/Sutokumo)
