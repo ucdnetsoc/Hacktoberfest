@@ -1,8 +1,8 @@
 # Hacktoberfest
 
-==NOTE: Only contribute if you are a Netsoc Member!==
+**NOTE: Only contribute if you are a Netsoc Member!**
 
-![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+![Hacktoberfest Logo](./assets/Email Banners-Dark.png)
 
 ## Getting your free t-shirt
 
