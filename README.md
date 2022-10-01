@@ -2,7 +2,7 @@
 
 **NOTE: Only contribute if you are a Netsoc Member!**
 
-![Hacktoberfest Logo](./assets/Email Banners-Dark.png)
+![Hacktoberfest Logo](assets/Email%20Banners-Dark.png)
 
 ## Getting your free t-shirt
 
