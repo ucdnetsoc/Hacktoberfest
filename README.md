@@ -8,6 +8,8 @@
 
 In order to promote Open Source contributions, Digital Ocean runs a yearly challenge to have **4 Pull Requests** successfully merged into an open source project on GitHub. As a reward you get a free t-shirt and most importantly stickers!
 
+WOW, this is a great repo!
+
 ---
 
 ### Installing git
