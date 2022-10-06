@@ -9,3 +9,4 @@
 - [Yosra Hashim](https://github.com/yhashim)
 - [Jake Ginesin](https://github.com/JakeGinesin)
 - [Jakub Kerlin](https://github.com/Sutokumo)
+- [Matthew Phillips](https://github.com/mattx245)
