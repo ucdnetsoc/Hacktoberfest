@@ -10,3 +10,4 @@
 - [Jake Ginesin](https://github.com/JakeGinesin)
 - [Jakub Kerlin](https://github.com/Sutokumo)
 - [Matthew Phillips](https://github.com/mattx245)
+- [David Gillick](https://github.com/VertexAssassins)
