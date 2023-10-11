@@ -1,5 +1,5 @@
 # Contributors
-
+- [Mohammed Musaddique](https://github.com/musaddique333)
 - [Ashraf Ali](https://github.com/ash-xyz)
 - [Ivor Lucas](https://github.com/IvorLucas)
 - [Cathal Poon](https://github.com/EXfighter)
